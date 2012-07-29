@@ -1,0 +1,16 @@
+Connection Strings
+Hostname
+
+flame.mongohq.com
+Port
+
+27051
+Mongo Console
+
+mongo flame.mongohq.com:27051/indianparliament -u <user> -p<password>
+Mongo URI
+
+mongodb://<user>:<password>@flame.mongohq.com:27051/indianparliament
+
+
+mongo flame.mongohq.com:27051/indianparliament -u iiitb -p iiitb

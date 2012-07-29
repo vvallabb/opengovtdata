@@ -1,0 +1,255 @@
+﻿/* Handcoded by http://psdcssxhtml.com */
+
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,pre,form,fieldset,input,textarea,blockquote,th,td {
+    margin:0;
+    padding:0;
+}
+
+fieldset,img {
+    border:0;
+}
+
+html {
+    height:100%;
+    margin-bottom:1px;
+}
+
+body {
+    position:relative;
+}
+
+:focus {
+    outline:none;
+}
+
+/* links */
+a {
+    color:#222;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#008cff;
+    text-decoration:underline;
+}
+
+/* header elements */
+h1, h2, h3, h4, h5, h6 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+h1 {
+    font-size:300%;
+    color:#000;
+}
+
+h2 {
+    font-size:250%;
+    color:#b4b4b4;
+}
+
+h3 {
+    font-size:200%;
+    color:#000;
+}
+
+h4 {
+    font-size:175%;
+    color:#000;
+}
+
+h5 {
+    font-size:150%;
+    color:#787878;
+}
+
+h6 {
+    font-size:125%;
+    color:#000;
+}
+
+/* page setup */
+body {
+    background:url(../images/page_bg.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:140%;
+    color:#000;
+    font-size:14px;
+}
+
+/* wrapper setup */
+div.rapidxwpr {
+    margin:auto;
+    width:860px;
+    background:url(../images/wrapper-bg.png) 0 0 no-repeat;
+}
+
+/* header */
+div#header {
+    position:relative;
+    height:150px;
+    margin:0px 0px 0px 0px;
+}
+
+/* logo */
+span#logo, img#logo {
+    width:253px;
+    height:164px;
+    border:0;
+    margin:10px 0 0 0;
+}
+
+/* main body setup */
+div#middle {
+    width:auto;
+    margin:0px 0px 0px 0px;
+    clear:both;
+}
+
+/* left column */
+div#left {
+    width:222px;
+    position:relative;
+    z-index:10;
+    float:left;
+    padding:0px 0px 0px 0px;
+}
+
+/* content column */
+div#main {
+    width:auto;
+    background:url(../images/content-top.png) 0 50px no-repeat;
+    margin:0px 0px 0px 222px;
+    padding:109px 0 0 0;
+    z-index:100;
+    position:relative;
+}
+
+div#main_container {
+    background:url(../images/content-bottom.png) 0 100% no-repeat;
+    padding:0 0 59px 0;
+}
+
+div#mainmiddle {
+    margin:0px 0px 0px 0px;
+    background:url(../images/content-bg.png) 0 0 repeat-y;
+    padding:10px 59px 0 59px;
+}
+
+/* footer */
+div#footer {
+    margin:auto;
+    padding:10px 0px 20px 222px;
+    clear:both;
+    color:#baac7e;
+    text-align:center;
+    font-size:12px;
+}
+
+div#footer a {
+    color:#baac7e;
+    text-decoration:none;
+}
+
+div#footer a:hover {
+    text-decoration:underline;
+}
+
+/* clearing & floating */
+.clearingfix:after {
+    content:".";
+    display:block;
+    line-height:0px;
+    clear:both;
+    visibility:hidden;
+}
+
+.clearingfix {
+    display:block;
+}
+
+.floatbox {
+    overflow:hidden;
+}
+
+/* topmenu */
+div.menu {
+    margin:30px 0 0 0;
+}
+
+div.menu ul {
+    padding:0px;
+    margin:0 0 0 50px;
+    list-style:none;
+    float:left;
+}
+
+div.menu ul li {
+    margin:5px 0 0 0;
+}
+
+div.menu a {
+    display:block;
+    position:relative;
+    padding:0;
+    overflow:hidden;
+    color:#fff;
+    width:222px;
+    text-indent:-9999px;
+}
+
+div.menu a:hover {
+    text-decoration:none;
+}
+
+div.menu a.home {
+    background:url(../images/menu-home.png) 40px 0 no-repeat;
+    height:44px;
+}
+
+div.menu a.commitment {
+    background:url(../images/menu-commitment.png) 0 0 no-repeat;
+    height:40px;
+}
+
+div.menu a.organic {
+    background:url(../images/menu-organic.png) 0 0 no-repeat;
+    height:42px;
+}
+
+div.menu a.delivery {
+    background:url(../images/menu-delivery.png) 20px 0 no-repeat;
+    height:49px;
+}
+
+div.menu a.delivery1 {
+    background:url(../images/1menu-commitment.png) 20px 0 no-repeat;
+    height:49px;
+}
+
+
+div.menu a.contact {
+    background:url(../images/menu-contact.png) 15px 0 no-repeat;
+    height:38px;
+}
+
+/* welcome */
+div.welcome, div.why-organic {
+    padding:0 40px 20px 40px;
+}
+
+div.welcome h2 {
+    margin:0 0 10px -30px;
+    background:url(../images/welcome-title.png) 0 0 no-repeat;
+    height:39px;
+    text-indent:-9999px;
+}
+
+div.why-organic h2 {
+    margin:0 0 10px -30px;
+    background:url(../images/why-organic-title.png) 0 0 no-repeat;
+    height:39px;
+    text-indent:-9999px;
+}
