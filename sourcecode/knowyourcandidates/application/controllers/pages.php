@@ -8,7 +8,6 @@ class Pages extends CI_Controller{
 	public function view ($page = 'home'){
 		$candidates = $this->candidates->get_candidates();
 		$data = array('candidates' => $candidates);
-		print($data);
 		$this->load->view('pages/candidates', $data);
 	}
 }
