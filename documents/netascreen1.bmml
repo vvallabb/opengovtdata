@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1035" measuredH="625" mockupW="1031" mockupH="600" productName="Balsamiq Mockups for Google Drive">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="4" y="25" w="1031" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//myneta.in</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="350" y="109" w="570" h="83" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="365" y="129" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20By</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="457" y="129" w="-1" h="-1" measuredW="65" measuredH="78" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%0AConstituency%0AParty%0AAge</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="672" y="127" w="-1" h="-1" measuredW="156" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20of%20constituency</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="350" y="214" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MP%27s%20photo</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="20" y="97" w="1001" h="490" measuredW="200" measuredH="122" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%0ACompare</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Accordion" x="350" y="318" w="638" h="254" measuredW="150" measuredH="240" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personal%20Details%0APositions%20Held%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0ADebates%0AQuestions%0AVideos%0AIn%20the%20news</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="568" y="216" w="-1" h="-1" measuredW="197" measuredH="43" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MP%27s%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HSplitter" x="301" y="100" w="-1" h="487" measuredW="11" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Accordion" x="91" y="141" w="201" h="162" measuredW="150" measuredH="159" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>State%0AAge%0A-%20%3E30%20%3C50%0A-%20%3E%2050%0AExperience</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="139" y="112" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter%20by</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
