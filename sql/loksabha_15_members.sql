@@ -1,4 +1,13 @@
-﻿USE knowyourcandidates;
+﻿use knowyourcandidates;
+CREATE TABLE if not exists`loksabha_15_members` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(32) NOT NULL,
+  `party_name` varchar(64) NOT NULL,
+  `constituency` varchar(128) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+
+USE knowyourcandidates;
 
 INSERT INTO `loksabha_15_members`(`id`,`name`,`party_name`,`constituency`) VALUES (1,'Gaikwad,Shri Eknath Mahadeo','INC','Mumbai-South-Central(Maharashtra )');
 INSERT INTO `loksabha_15_members`(`id`,`name`,`party_name`,`constituency`) VALUES (2,'Majumdar,Shri Prasanta Kumar','RSP','Balurghat (West Bengal )');
