@@ -2,6 +2,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -73,12 +74,27 @@ public class GetMP {
 		
 		int count = 1;
 		
-		for(String mpsno:mpsnoList)
-		{
-			storeMPDetails(mpsno);
-			System.out.println("Done with "+count+" MPs");
-			count++;
+		try {
+			FileWriter file = new FileWriter("mpfiles/mps.json");
+			
+			JSONArray mpsList = new JSONArray();
+			
+			for(String mpsno:mpsnoList)
+			{
+				storeMPDetails(mpsno,mpsList);
+				System.out.println("Done with "+count+" MPs");
+				count++;
+			}
+			
+			file.write(mpsList.toJSONString());
+			file.flush();
+			file.close();
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		
 		
 	}
 	
@@ -105,7 +121,7 @@ public class GetMP {
 		
 	}*/
 	
-	private static void storeMPDetails(String mpNo)
+	private static void storeMPDetails(String mpNo, JSONArray mpsList)
 	{
 		
 		Document doc = null;
@@ -119,7 +135,7 @@ public class GetMP {
 			e.printStackTrace();
 		}
 		
-		storeInJson(doc, mpNo, "Email Address :","Party Name","Constituency","Father's Name","Mother's Name","Date of Birth","Place of Birth","Marital Status",
+		storeInJson(mpsList, doc, mpNo, "Email Address :","Party Name","Constituency","Father's Name","Mother's Name","Date of Birth","Place of Birth","Marital Status",
 				"Date of Marriage", "Spouse's Name", "No. of Sons", "No.of Daughters", "Educational Qualifications", "Profession","Permanent Address","Present Address",
 				"Positions Held","Literary Artistic & Scientific Accomplishments","Social And Cultural Activities","Special Interests","Favourite Pastime and Recreation","Sports and Clubs","Countries Visited","Other Information");
 		
@@ -127,13 +143,17 @@ public class GetMP {
 		
 	}
 	
-	private static void storeInJson(Document doc, String mpNo, String... args)
+	private static void storeInJson(JSONArray mpsList, Document doc, String mpNo, String... args)
 	{
 		//Timer t = new GetMP().new Timer();
 		try {
-		FileWriter file = new FileWriter("mpfiles/"+mpNo+".json");
+		//FileWriter file = new FileWriter("mpfiles/mps.json");
 		JSONObject obj = new JSONObject();
 		boolean found = false;
+		
+		
+		obj.put("candidateId", mpNo);
+		
 		found = storeName(doc,obj);
 		found = storeImage(doc,obj);
 		for(String label:args)
@@ -181,17 +201,8 @@ public class GetMP {
 			}
 		}
 		
-			//if(found)
-			//{
-				//System.out.println("Writing file");
-				file.write(obj.toJSONString());
-			//}
-			
-			file.flush();
-			file.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		mpsList.add(obj);
+		
 		}finally{
 			//t.endTimer("storeInJson");
 		}
