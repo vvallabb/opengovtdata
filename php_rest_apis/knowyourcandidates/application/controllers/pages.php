@@ -10,4 +10,8 @@ class Pages extends CI_Controller{
 		$data = array('candidates' => $candidates);
 		$this->load->view('pages/candidates', $data);
 	}
+	
+	public function persistmps(){
+		$candidates = $this->candidates->persist_candidates();
+	}
 }
