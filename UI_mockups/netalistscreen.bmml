@@ -1,182 +1,212 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1035" measuredH="625" mockupW="1031" mockupH="600" productName="Balsamiq Mockups for Google Drive">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1254" measuredH="633" mockupW="1031" mockupH="600" productName="Balsamiq Mockups for Google Drive">
   <controls>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="4" y="25" w="1031" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="223" y="33" w="1031" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Know%20Your%20Neta%0Ahttp%3A//knowyourneta.in</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="20" y="97" w="1001" h="490" measuredW="200" measuredH="122" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="239" y="105" w="1001" h="490" measuredW="200" measuredH="122" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%0ACompare</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::FieldSet" x="350" y="109" w="570" h="83" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::FieldSet" x="569" y="117" w="570" h="83" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="365" y="129" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="584" y="137" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%20By</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::ComboBox" x="457" y="129" w="-1" h="-1" measuredW="65" measuredH="78" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="137" w="-1" h="-1" measuredW="65" measuredH="78" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Name%0AConstituency%0AParty%0AAge</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::SearchBox" x="672" y="127" w="-1" h="-1" measuredW="156" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SearchBox" x="891" y="135" w="-1" h="-1" measuredW="156" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Name%20of%20constituency</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::HSplitter" x="301" y="100" w="-1" h="487" measuredW="11" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Accordion" x="91" y="141" w="201" h="162" measuredW="150" measuredH="159" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::HSplitter" x="520" y="108" w="-1" h="487" measuredW="11" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Accordion" x="310" y="149" w="201" h="162" measuredW="150" measuredH="159" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State%0AAge%0A-%20%3E30%20%3C50%0A-%20%3E%2050%0AExperience</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="139" y="112" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="358" y="120" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Filter%20by</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="137" y="190" w="-1" h="-1" measuredW="92" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="356" y="198" w="-1" h="-1" measuredW="92" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Karnataka</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="345" y="303" w="180" h="103" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::IconLabel" x="360" y="310" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="564" y="311" w="180" h="121" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::IconLabel" x="579" y="318" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP1%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="435" y="318" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="654" y="326" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="435" y="344" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="654" y="352" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="435" y="370" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="654" y="378" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="576" y="303" w="180" h="103" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="591" y="310" w="-1" h="-1" measuredW="65" measuredH="63" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="795" y="311" w="180" h="121" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="810" y="318" w="-1" h="-1" measuredW="65" measuredH="63" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP2%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="666" y="318" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="885" y="326" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="666" y="344" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="885" y="352" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="666" y="370" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="885" y="378" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="807" y="303" w="180" h="103" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1"/>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="822" y="310" w="-1" h="-1" measuredW="65" measuredH="63" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="1026" y="311" w="180" h="121" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="1041" y="318" w="-1" h="-1" measuredW="65" measuredH="63" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP3%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="897" y="318" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="326" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="897" y="344" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="352" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="897" y="370" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="378" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="345" y="453" w="180" h="103" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1"/>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::IconLabel" x="360" y="460" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="564" y="461" w="180" h="119" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::IconLabel" x="579" y="468" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP1%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="435" y="468" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="654" y="476" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="435" y="494" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="654" y="502" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="435" y="520" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="654" y="528" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="579" y="453" w="180" h="103" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1"/>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="594" y="460" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="798" y="461" w="180" h="119" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="813" y="468" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP1%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="669" y="468" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="888" y="476" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="669" y="494" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="888" y="502" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="669" y="520" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="888" y="528" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="807" y="446" w="180" h="103" measuredW="100" measuredH="70" zOrder="35" locked="false" isInGroup="-1"/>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::IconLabel" x="822" y="453" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="1026" y="454" w="180" h="126" measuredW="100" measuredH="70" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::IconLabel" x="1041" y="461" w="-1" h="-1" measuredW="62" measuredH="63" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <text>MP1%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="897" y="461" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="469" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Constituency</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="897" y="487" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="495" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Party%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="897" y="513" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="1116" y="521" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::VSplitter" x="312" y="218" w="709" h="-1" measuredW="100" measuredH="11" zOrder="40" locked="false" isInGroup="-1"/>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="536" y="244" w="293" h="-1" measuredW="293" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::VSplitter" x="531" y="226" w="709" h="-1" measuredW="100" measuredH="11" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="755" y="252" w="293" h="-1" measuredW="293" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <text>Found%206%20candidates%20matching%20your%20search%20criteria</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::CheckBox" x="619" y="399" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::CheckBox" x="850" y="399" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::CheckBox" x="1081" y="399" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::CheckBox" x="619" y="549" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::CheckBox" x="850" y="549" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::CheckBox" x="1081" y="549" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20compare</text>
       </controlProperties>
     </control>
   </controls>
