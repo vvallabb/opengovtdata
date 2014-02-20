@@ -42,7 +42,8 @@ class Candidates extends CI_Model {
 	}
 	*/
 	public function persist_candidates(){
-		$MP_JSONS_DIR = 'C:\Users\vasanth\Documents\GitHub\14feb2014\opengovtdata\opengovtdata\jsoupscraper\mpfiles';
+		/** This is the directory where you have placed the master loksabha_15_531.json file */
+		$MP_JSONS_DIR = '..\mpfiles';
 
 		if ($handle = opendir($MP_JSONS_DIR)) {
 			while (false !== ($mpjsonfilename = readdir($handle))) {
