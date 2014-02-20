@@ -1,0 +1,126 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1350" measuredH="633" mockupW="1031" mockupH="600" productName="Balsamiq Mockups for Google Drive">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="319" y="33" w="1031" h="600" measuredW="450" measuredH="400" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Know%20Your%20Neta%0Ahttp%3A//knowyourneta.in</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="335" y="105" w="1001" h="490" measuredW="200" measuredH="122" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%0ACompare</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="734" y="120" w="-1" h="-1" measuredW="127" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>18</size>
+        <text>Compare%20netas</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Canvas" x="407" y="150" w="248" h="426" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="416" y="168" w="239" h="408" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="460" y="175" w="225" h="394" measuredW="225" measuredH="394" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="225" h="394" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="31"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="13" y="117" w="198" h="255" measuredW="150" measuredH="240" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Personal%20Details%0APositions%20Held%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0ADebates%0AQuestions%0AVideos%0AIn%20the%20news</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="24" y="155" w="-1" h="-1" measuredW="172" measuredH="21" zOrder="2" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Constituency%3A%20Constituency%201</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="24" y="181" w="-1" h="-1" measuredW="100" measuredH="21" zOrder="3" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Party%20Name%3A%20BJP</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="67" y="18" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="4" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>MP%201</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="758" y="330" w="-1" h="-1" measuredW="175" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Constituency%3A%20Constituency%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="758" y="356" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Party%20Name%3A%20Congress</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Canvas" x="416" y="156" w="892" h="421" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="152" w="910" h="432" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="769" y="175" w="225" h="394" measuredW="225" measuredH="394" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="225" h="394" measuredW="225" measuredH="394" zOrder="0" locked="false" isInGroup="56">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="225" h="394" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="13" y="117" w="198" h="255" measuredW="150" measuredH="240" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Personal%20Details%0APositions%20Held%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0ADebates%0AQuestions%0AVideos%0AIn%20the%20news</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="67" y="18" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>MP%202</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="25" y="155" w="-1" h="-1" measuredW="175" measuredH="21" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <text>Constituency%3A%20Constituency%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="25" y="181" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="2" locked="false" isInGroup="56">
+          <controlProperties>
+            <text>Party%20Name%3A%20Congress</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="__group__" x="1066" y="175" w="225" h="394" measuredW="225" measuredH="394" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="225" h="394" measuredW="225" measuredH="394" zOrder="0" locked="false" isInGroup="58">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="225" h="394" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="13" y="117" w="198" h="255" measuredW="150" measuredH="240" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Personal%20Details%0APositions%20Held%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0ADebates%0AQuestions%0AVideos%0AIn%20the%20news</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="24" y="155" w="-1" h="-1" measuredW="174" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Constituency%3A%20Constituency%203</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="24" y="181" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Party%20Name%3A%20AAP</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="67" y="18" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="1" locked="false" isInGroup="58">
+          <controlProperties>
+            <text>MP%203</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
