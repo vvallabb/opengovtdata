@@ -5,8 +5,15 @@ class Candidates extends CI_Model {
 		$this->load->database();
 	}
 	
+	public function get_candidates_images(){
+		$array = array('imageurl <>' => 'null');
+		$this->db->where($array);
+		$query = $this->db->get('knowyourcandidates.loksabha_15_531');
+		return $query->result_array();
+	}
+	
 	public function get_candidates(){
-		$query = $this->db->get('knowyourcandidates.MP2014');
+		$query = $this->db->get('knowyourcandidates.loksabha_15_531');
 		return $query->result_array();
 	}
 	/**
